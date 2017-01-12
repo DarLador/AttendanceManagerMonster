@@ -2,7 +2,7 @@
 
 ## The rationale behind it
 
-On Aug 2015 "she codes;" launched "she codes; Academy" - free-of-charge Web and Android study tracks for women without any previous programming background. The need for well designed software which automatically sends tasks and monitors the students progress arose in the very first day of "she codes; academy".
+On Aug 2015 ["she codes;"](http://www.she-codes.org/) launched "she codes; Academy" - free-of-charge Web and Android study tracks for women without any previous programming background. The need for well designed software which automatically sends tasks and monitors the students progress arose in the very first day of "she codes; academy".
 
 AttendanceManagerMonster is a GUI app for managers is used:
 
@@ -12,7 +12,7 @@ AttendanceManagerMonster is a GUI app for managers is used:
 
 and more...
 
-It was created for "she codes;" WIS branch on Feb 8, 2016. AttendanceManagerMonster and [TasksMonster](https://github.com/DarLador/TasksMonster) applications were the source of inspiration for shecodesconnect.com - implementation of this platform at national level.
+It was created for "she codes;" WIS branch on Feb 8, 2016. AttendanceManagerMonster and [TasksMonster](https://github.com/DarLador/TasksMonster) applications were the source of inspiration for [shecodesconnect.com](https://shecodesconnect.com/) - implementation of this platform at national level.
 
 ## The application
 
