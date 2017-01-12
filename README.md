@@ -16,7 +16,7 @@ It was created for "she codes;" WIS branch on Feb 8, 2016. AttendanceManagerMons
 
 ## The application
 
-AttendanceManagerMonster application was built in Anaconda Python 3.5 on windows. As soon as time permits I will upload a new version with related files so that the software will work on any PC.
+AttendanceManagerMonster application was built in Anaconda Python 3.5 on windows. As soon as time permits I will upload a new version with related files so it will work on any PC.
 
 ## Application process at a glance
 
