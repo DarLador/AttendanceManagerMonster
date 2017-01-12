@@ -20,7 +20,7 @@ AttendanceManagerMonster application was built in Anaconda Python 3.5 on windows
 
 ## Application process at a glance
 
-**Intro screen** -- The manager fill her name and password.
+**Intro screen** -- The manager fills her name and password.
 
 <img width="250" alt="intro" src="https://cloud.githubusercontent.com/assets/17408143/21900607/2241efac-d8fd-11e6-9b0b-a858ca3b7517.PNG">
 
