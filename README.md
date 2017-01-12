@@ -12,7 +12,7 @@ AttendanceManagerMonster is a GUI app for managers is used:
 
 and more...
 
-It was created for "she codes;" WIS branch on Feb 8, 2016. AttendanceManagerMonster and TasksMonster applications were the source of inspiration for shecodesconnect.com - implementation of this platform at national level.
+It was created for "she codes;" WIS branch on Feb 8, 2016. AttendanceManagerMonster and [TasksMonster](https://github.com/DarLador/TasksMonster) applications were the source of inspiration for shecodesconnect.com - implementation of this platform at national level.
 
 ## The application
 
