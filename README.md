@@ -4,7 +4,7 @@
 
 On Aug 2015 "she codes;" launched "she codes; Academy" - free-of-charge Web and Android study tracks for women without any previous programming background. The need for well designed software which automatically sends tasks and monitors the students progress arose in the very first day of "she codes; academy".
 
-AttendanceManagerMonster is a GUI app for managers used:
+AttendanceManagerMonster is a GUI app for managers is used:
 
 1. To analyse students progress.
 2. To send weekly emails to students.
