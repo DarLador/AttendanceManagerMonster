@@ -24,7 +24,7 @@ AttendanceManagerMonster application was built in Anaconda Python 3.5 on windows
 
 <img width="250" alt="intro" src="https://cloud.githubusercontent.com/assets/17408143/21900607/2241efac-d8fd-11e6-9b0b-a858ca3b7517.PNG">
 
-If name & passwords are correct the app recognize the manager and selects students from the manager’s group (web or android). 
+If name & password are correct the app recognize the manager and selects students from the manager’s group (web or android). 
 
 The opened frame consists of 8 tabs. Below is a short description for each tab.
 ### 1: Summary
