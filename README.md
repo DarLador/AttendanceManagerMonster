@@ -12,11 +12,11 @@ On Aug 2015 ["she codes;"](http://www.she-codes.org/) launched the program "she 
 
 and more...
 It was created for "she codes;" WIS branch on Feb 8, 2016.  
-AttendanceManagerMonster and also [TasksMonster](https://github.com/DarLador/TasksMonster) applications were the source of inspiration for the latter development of [shecodesconnect.com](https://shecodesconnect.com/) - which is an implementation of this platform at national level.
+*AttendanceManagerMonster* and also [TasksMonster](https://github.com/DarLador/TasksMonster) applications were the source of inspiration for the latter development of [shecodesconnect.com](https://shecodesconnect.com/) - which is an implementation of this platform at national level.
 
 ## The application
 
-AttendanceManagerMonster application was built in Anaconda Python 3.5 on windows OS.
+*AttendanceManagerMonster* application was built in Anaconda Python 3.5 on windows OS.
 
 ## Application process at a glance
 
