@@ -64,7 +64,7 @@ Here the app sorts out students by the class they’re in and for each student i
 ### 5: Complete lessons
 Students who miss a meetup can complete it in another branch. Let’s say Netaly can’t attend to the meetup on 17/2/2016. Instead she visited the TLV – Check Point Building branch (Web) on 14/02/2016.
 
-<img width="445" alt="8" src="https://cloud.githubusercontent.com/assets/17408143/21900676/62de0b18-d8fd-11e6-95a1-0cc834c5e531.png">
+<img width="445" alt="8" src="https://cloud.githubusercontent.com/assets/17408143/21961277/14ef575a-db0e-11e6-8611-d857debfe8fd.png">
 
 After we fill the data and click on the Submit button, the app gets refreshed.
 
